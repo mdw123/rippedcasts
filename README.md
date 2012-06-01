@@ -1,4 +1,7 @@
-rippedcasts
-===========
+#rippedcasts
 
-similar-to-railscasts themes for Emacs, iTerm2 and OSX terminal
+Contains similar-to-railscasts themes for:
+- Xcode 
+- Emacs
+- iTerm2
+- OSX terminal
