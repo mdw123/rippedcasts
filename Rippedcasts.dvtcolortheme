@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.46 0.648 0.689 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Consolas-Bold - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Consolas - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.815 0.951 0.405 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Consolas-Bold - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.574 0.855 0.466 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Consolas - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.762 0.599 0.49 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Consolas - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.169285 0.169285 0.169285 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.353 0.392 0.494 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.705792 0.8 0.544 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.169285 0.169285 0.169285 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.744565 0.744565 0.744565 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.353 0.392 0.494 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.512 0.423 0.157 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.647 0.761 0.38 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.737 0.58 0.345 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.737 0.58 0.345 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.737 0.58 0.345 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.46 0.648 0.689 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.574 0.855 0.466 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.8 0.471 0.2 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.8 0.471 0.2 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.43 0.638 0.707 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.762 0.599 0.49 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.647 0.761 0.38 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.647 0.761 0.38 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.503 0.679 0.717 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.815 0.951 0.405 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.816 0.816 1 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.816 0.816 1 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.8 0.471 0.2 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.647 0.761 0.38 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>1 1 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.737 0.58 0.345 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.647 0.761 0.38 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.647 0.761 0.38 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Consolas - 14.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Consolas - 14.0</string>
+	</dict>
+</dict>
+</plist>
